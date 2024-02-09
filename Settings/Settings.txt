@@ -1,1 +1,1 @@
-{"925897806009483315":{"alertChannel":"925897806009483318","message":"{0} is streaming!","users":[{"username":"test","isLive":null},{"username":"jeanpormanove","isLive":null}]}}
+{}
