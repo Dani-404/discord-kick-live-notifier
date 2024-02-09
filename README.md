@@ -22,9 +22,11 @@ $ npm run dev
 
 ### Config
 [Config/Config.ts](https://github.com/Dani-404/kick-discord-notifier/blob/main/Config/Config.ts)<br>
-<b>DISCORD_TOKEN</b> is your Discord bot tokenID<br />
+<b>DISCORD_TOKEN</b> is your Discord bot token<br />
 <b>DISCORD_CLIENT_ID</b> is your Discord bot client/application ID<br />
 <b>UPDATE_INTERVAL</b> is the update request interval in minutes
+
+All these informations are available on [Discord Developer Portal](https://discord.com/developers/).
 
 ### Invitation URL
 Your discord bot need permissions <b>2147483648</b> on your server for create commands.
