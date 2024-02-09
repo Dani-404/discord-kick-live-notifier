@@ -13,7 +13,7 @@ $ npm run dev
 ```
 
 ### Commands availables
-* <b>/add_stramer <username></b> Add streamer to alert list
+* <b>/add_streamer <username></b> Add streamer to alert list
 * <b>/remove_streamer <username></b> Remove streamer from alert list
 * <b>/set_alert_channel <channel></b> Set the alert channel
 * <b>/set_alert_message <message></b> Set the alert message
