@@ -1,4 +1,4 @@
-# kick-discord-notifier
+# discord-kick-live-notifier
 Notify discord users of Kick.com livestreams launches
 
 ### Installation
